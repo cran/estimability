@@ -1,7 +1,8 @@
-549d324bc500bc87e77a6070d28759a7 *DESCRIPTION
-f1aa35d2382f9de3a0d007bf70d34ad7 *NAMESPACE
-b6e24b8a5177ba9c4beb4217527ed7bc *R/epredict.lm.R
-93f9609d712514dfb39764f9762ea2c3 *R/estimability.R
-7daba43eaf3474aa281f66a391626308 *man/epredict.lm.Rd
+1aeae29d661228c4b1b2d4be9d53cdbd *DESCRIPTION
+df62720bde52c7b274298c8425d6f365 *NAMESPACE
+ef35de60ea07685e778cc287e71b5289 *R/epredict.lm.R
+68cf3128cfe31ab716169b84ef7f6066 *R/estimability.R
+14f2193f4249591397d66e700503bc95 *inst/NEWS
+894059c01d85207fb5cbfe01e399a45c *man/epredict.lm.Rd
 34dfc7c7a3beb3e4ab147120840da44b *man/estimability-package.Rd
-d72cc8a581c6774e9eb5096619b17a9c *man/nonest.basis.Rd
+3a4b30946a2cea7c393f1c58c18859a0 *man/nonest.basis.Rd
