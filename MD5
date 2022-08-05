@@ -1,10 +1,10 @@
-ce3f40a9d0a9d4d0640a66216c2aa4ae *DESCRIPTION
+d3a486e8c5d3be43ba671cff010dc4b0 *DESCRIPTION
 f3edaa682f331f0f437f5cd973a80255 *NAMESPACE
 584c7aa35dc12a50863e410d1a6c9407 *R/epredict.lm.R
 db937ec225a2778864ac557a0bd09511 *R/estble-subsp.R
-103f53a5e547ee01a6cea5730f1a1ea1 *R/estimability.R
+9af8a357295aee4c10572c6d2e7c4630 *R/estimability.R
 c26e3592530d871ea5e4b3652a99d838 *README.md
-f8108eaf8e1ebadd1796207838b7d550 *inst/NEWS
+f3285d85bd1243c2a65511f28b4ca884 *inst/NEWS
 a80594f2fc3d419746baa553f5de57df *man/epredict.lm.Rd
 76344948cf755a7caf150250283fedd2 *man/estble-subspace.Rd
 aae9f4ed984b658a3c55772610998377 *man/estimability-package.Rd
